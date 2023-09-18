@@ -14,5 +14,10 @@ Retinal vessel extraction,  opencv_python, skimage, python
 # Experimental 
 ![vessel](https://github.com/huang229/HessianVesselExtraction/assets/29627190/b07956af-911c-4d28-8458-186d271e9a10)
 
+# License and Citation
+1.Without permission, the design concept of this model shall not be used for commercial purposes, profit seeking, etc.
+
+2.The usage rights strictly follow the relevant copyright regulations of the cited paper above. This is only a reproduction.
+
 
 
