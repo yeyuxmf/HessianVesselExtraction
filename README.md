@@ -14,6 +14,10 @@ Retinal vessel extraction,  opencv_python, skimage, python
 # Experimental 
 ![vessel](https://github.com/huang229/HessianVesselExtraction/assets/29627190/b07956af-911c-4d28-8458-186d271e9a10)
 
+
+# Additional
+1. The final blood vessel extraction can use soft thresholds, such as the otsu algorithm, and so on.
+   
 # License and Citation
 1.Without permission, the design concept of this model shall not be used for commercial purposes, profit seeking, etc.
 
